@@ -1,0 +1,18 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "weather cli project",
+  "main": "index.js",
+  "scripts": {
+    "start": "noe index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "weather-cli"
+  ],
+  "author": "Zarrukh Jurakulov",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
